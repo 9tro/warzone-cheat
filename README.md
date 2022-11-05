@@ -65,4 +65,4 @@ cheat thats working as of today. open it before launching the game and then open
     ----------------------------
     Other
     - Save settings
-    - stream proof (xsplit & OBS)
+    - stream proof (xsplit + OBS)
